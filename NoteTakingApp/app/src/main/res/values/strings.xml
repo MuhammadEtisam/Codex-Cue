@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Note Taking App</string>
+    <string name="button_save">Save</string>
+    <string name="hint_note">Enter your note</string>
+</resources>
